@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "debug": "^4.1.1",
+    "elliptic": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simple-BlockChains/javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simple-BlockChains/javascript/issues"
+  },
+  "homepage": "https://github.com/Simple-BlockChains/javascript#readme"
+}
